@@ -1,5 +1,5 @@
 import React from 'react';
-import '../style/Gallery.css';
+import '../style/gallery.css';
 
 const Gallery = () => {
   const base = import.meta.env.BASE_URL;
